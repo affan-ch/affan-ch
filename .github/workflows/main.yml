@@ -37,6 +37,7 @@ jobs:
       - name: Commit & Push
         run: |
           git clone git@github.com:affan-ch/affan-ch.git
+          rm -r affan-ch/dist/*
           mv dist affan-ch/
           cd affan-ch
           git config --global user.email "muhammadaffanmaqsood@gmail.com"
