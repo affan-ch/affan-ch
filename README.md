@@ -74,6 +74,14 @@
 
 ###
 
+<h3>🐍  Snake on Contribution Graph</h3>
+<div align="center">
+    <img src="https://github.com/affan-ch/affan-ch/blob/main/dist/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+
+###
+
 <h3>📈  My Contribution Graph</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=react-dark&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29" />
 
