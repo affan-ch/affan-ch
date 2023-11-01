@@ -80,7 +80,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=affan-ch&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=affan-ch&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=2" height="250" alt="Stats Graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=affan-ch&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=2&border_color=39D353&icon_color=39D353" height="220" alt="Stats Graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=affan-ch&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=3" height="152" alt="Languages Graph" /> <br>
   
 </div>
