@@ -5,7 +5,6 @@ on:
     # Runs every 4 hours
     - cron: "0 */4 * * *"
 
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -43,5 +42,3 @@ jobs:
           git add -A .
           git commit -m "Generate & Update Snake Contributions SVG"
           git push
-        
-        
