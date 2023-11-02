@@ -1,3 +1,28 @@
+<h1 align="center">Hi 👋, I'm Affan Ch.</h1>
+<h3 align="center">A passionate Full-Stack and Desktop developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=affan-ch&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" /> </p>
+
+- Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, React.js, Next.js, and various databases including MongoDB and MySQL.
+
+- Desktop development enthusiast with expertise in C# (WinUI3, WPF, WinForms, UWP) and Python (Tkinter, PyQt5, PySide6).
+
+- Cross-platform app developer using Flutter and Dart, with experience in Firebase and Supabase for backend services.
+
+- Passionate about creating innovative solutions and enhancing user experiences.
+
+- Currently pursuing a BSCS degree at UET, Lahore, to further my knowledge and skills in computer science.
+
+- Connect with me and explore my projects below!
+
+- 🔭 I’m currently working on [Cyber Vault](https://github.com/muhammadaffanmaqsood/Cyber-Vault)
+
+- 🌱 I’m currently learning **Next.js 13**
+
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **affan_ali_ch@outlook.com**
+
 
 <h3 align="left">🔗 Connect with me: </h3>
 
@@ -113,8 +138,11 @@
 ###
 
 <div align="center">
+ 
   <img src="https://streak-stats.demolab.com/?user=affan-ch&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=affan-ch&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=2&border_color=39D353" height="250" width="550" alt="Stats Graph" /> <br>
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=affan-ch&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=2&icon_color=39D353&border_color=39D353" height="250" width="550" alt="Stats Graph" /> <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=affan-ch&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_color=39D353&order=3&disable_animations=true" height="180" alt="Languages Graph" /> <br>
   
 </div>
