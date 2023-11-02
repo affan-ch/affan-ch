@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate/Update Snake SVG
 
 on:
   schedule:
-    # Runs every 4 hours
-    - cron: "0 */4 * * *"
+    # Runs every hour
+    - cron: "0 */1 * * *"
   workflow_dispatch:
   
 
@@ -37,11 +37,19 @@ jobs:
       - name: Commit & Push
         run: |
           git clone git@github.com:affan-ch/affan-ch.git
+          echo "Repo Cloned Successfully!"
           rm -r affan-ch/dist/*
+          echo "Old Dist Folder Files Removed From Repo Folder"
           mv dist affan-ch/
+          echo "New Dist Folder Files Moved to Repo Folder"
           cd affan-ch
+          echo "Inside Repo Folder"
           git config --global user.email "muhammadaffanmaqsood@gmail.com"
           git config --global user.name "affan-ch"
+          echo "Set Git Username and Email"
           git add -A .
+          echo "Added Changes to Commit"
           git commit -m "Generate & Update Snake Contributions SVG"
+          echo "Commit Successful !"
           git push
+          echo "Push Successful !"
