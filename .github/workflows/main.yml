@@ -40,6 +40,9 @@ jobs:
           echo "Repo Cloned Successfully!"
           rm -r affan-ch/dist/*
           echo "Old Dist Folder Files Removed From Repo Folder"
+          echo "<!-- Generated on $(date +"%Y-%m-%d %H:%M:%S") -->" >> dist/github-contribution-grid-snake-dark.svg
+          echo "<!-- Generated on $(date +"%Y-%m-%d %H:%M:%S") -->" >> dist/github-contribution-grid-snake.svg
+          echo "Added Timestamps comment at the end of SVG files"
           mv dist affan-ch/
           echo "New Dist Folder Files Moved to Repo Folder"
           cd affan-ch
