@@ -119,7 +119,7 @@
 
 <h3>🐍  Snake on Contribution Graph</h3>
 <div align="center">
-    <img src="https://github.com/affan-ch/affan-ch/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+    <img src="https://github.com/affan-ch/affan-ch/blob/main/dist/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 
