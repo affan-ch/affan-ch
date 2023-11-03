@@ -3,55 +3,51 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affan-ch&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" /> </p>
 
-- Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, React.js, Next.js, and various databases including MongoDB and MySQL.
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, React.js, Next.js, and various databases including MongoDB and MySQL.
 
-- Desktop development enthusiast with expertise in C# (WinUI3, WPF, WinForms, UWP) and Python (Tkinter, PyQt5, PySide6).
+- <img  align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Desktop development enthusiast with expertise in C# (WinUI3, WPF, WinForms, UWP) and Python (Tkinter, PyQt5, PySide6).
 
-- Cross-platform app developer using Flutter and Dart, with experience in Firebase and Supabase for backend services.
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Cross-platform app developer using Flutter and Dart, with experience in Firebase and Supabase for backend services.
 
-- Passionate about creating innovative solutions and enhancing user experiences.
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Passionate about creating innovative solutions and enhancing user experiences.
 
-- Currently pursuing a BSCS degree at UET, Lahore, to further my knowledge and skills in computer science.
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Currently pursuing a BSCS degree at UET, Lahore, to further my knowledge and skills in computer science.
 
-- Connect with me and explore my projects below!
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect with me and explore my projects below!
 
-- 🔭 I’m currently working on [Cyber Vault](https://github.com/muhammadaffanmaqsood/Cyber-Vault)
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on [Cyber Vault](https://github.com/muhammadaffanmaqsood/Cyber-Vault)
 
-- 🌱 I’m currently learning **Next.js 13**
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> I’m currently learning **Next.js 13**
 
-- 💬 Ask me about **MERN**
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> Ask me about **MERN**
 
-- 📫 How to reach me **affan_ali_ch@outlook.com**
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> How to reach me **affan_ali_ch@outlook.com**
 
 
 <h3 align="left">🔗 Connect with me: </h3>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/affan-ch">
+<p align="left">
+  <a href="https://www.linkedin.com/in/affan-ch"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
 
-  <a href="https://x.com/Ch_Affan_Ali">
+  <a href="https://x.com/Ch_Affan_Ali"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
 
-  <a href="https://instagram.com/ch.affan.ali">
+
+  <a href="https://instagram.com/ch.affan.ali"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   
-  <a href="mailto:affan_ali_ch@outlook.com">
+  <a href="mailto:affan_ali_ch@outlook.com"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
   
-  <a href="https://wa.me/+923234540530">
+  <a href="https://wa.me/+923234540530"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+
   
-  <a href="mailto:muhammadaffanmaqsood@gmail.com">
+  <a href="mailto:muhammadaffanmaqsood@gmail.com"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   
-</div>
+</p>
 
 ###
 
@@ -117,7 +113,7 @@
 
 ###
 
-<h3>🐍  Snake on Contribution Graph</h3>
+<h3><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" />  Snake on Contribution Graph</h3>
 <div align="center">
     <img src="https://github.com/affan-ch/affan-ch/blob/main/dist/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
@@ -125,7 +121,7 @@
 
 ###
 
-<h3>📈  My Contribution Graph</h3>
+<h3><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />  My Contribution Graph</h3>
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=github-compact&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29&area=true&line=39D353&point=fff&title_color=39D353" />
 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=react-dark&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29&area=true"  />
@@ -137,7 +133,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" />   My Stats :</h3>
 
 ###
 
