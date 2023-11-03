@@ -38,7 +38,7 @@ jobs:
         run: |
           git clone git@github.com:affan-ch/affan-ch.git
           echo "Repo Cloned Successfully!"
-          rm -r affan-ch/dist/*
+          rm -f affan-ch/dist/*
           echo "Old Dist Folder Files Removed From Repo Folder"
           echo "<!-- Generated on $(date +"%Y-%m-%d %H:%M:%S") -->" >> dist/github-contribution-grid-snake-dark.svg
           echo "<!-- Generated on $(date +"%Y-%m-%d %H:%M:%S") -->" >> dist/github-contribution-grid-snake.svg
