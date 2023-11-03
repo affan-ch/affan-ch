@@ -1,7 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Affan Ch.</h1>
 <h3 align="center">A passionate Full-Stack and Desktop developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=affan-ch&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=affan-ch&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" />
+<img src="https://img.shields.io/github/followers/affan-ch?label=Followers&style=flat&color=0e75b6" alt="Followers" /> </p>
+
+
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, React.js, Next.js, and various databases including MongoDB and MySQL.
 
