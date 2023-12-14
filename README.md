@@ -125,7 +125,12 @@
 
 <h3><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" />  Snake on Contribution Graph</h3>
 <div align="center">
+  <a href="https://github.com/settings/appearance#gh-dark-mode-only">
     <img src="https://github.com/affan-ch/affan-ch/blob/main/dist/github-contribution-grid-snake-dark.svg" alt="snake" />
+    </a>
+  <a href="https://github.com/settings/appearance#gh-light-mode-only">
+    <img src="https://github.com/affan-ch/affan-ch/blob/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+    </a>
 </div>
 
 
