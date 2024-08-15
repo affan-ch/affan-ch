@@ -15,8 +15,6 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Passionate about creating innovative solutions and enhancing user experiences.
 
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Currently pursuing a BSCS degree at UET, Lahore, to further my knowledge and skills in computer science.
-
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect with me and explore my projects below!
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on [Cyber Vault Desktop](https://github.com/affan-ch/Cyber-Vault-Desktop-Offline)
