@@ -135,11 +135,14 @@
 
 ###
 
-<h3><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />  My Contribution Graph</h3>
-<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=github-compact&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29&area=true&line=39D353&point=fff&title_color=39D353" />
--->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=react-dark&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29&area=true"  />
+<details>
+  <summary><h3><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />  My Contribution Graph</h3></summary>
 
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=github-compact&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29&area=true&line=39D353&point=fff&title_color=39D353" />-->
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=affan-ch&hide_border=true&theme=react-dark&custom_title=Affan%27s+Contribution+Graph+%28Last+30+Days%29&area=true"  />
+  
+</details>
 
 
 ###
@@ -147,9 +150,8 @@
 
 ###
 
-<h3 align="left"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" />   My Stats :</h3>
-
-###
+<details>
+  <summary><h3 align="left"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" />   My Stats :</h3></summary>
 
 <div align="center">
  
@@ -161,19 +163,26 @@
   
 </div>
 
-###
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Money Bag" width="31" height="31" /> Sponsor Me: </h3>
-<p align="left">
-  <br>
-  <a href="https://www.buymeacoffee.com/affanch" />
-  <img src="https://github.com/affan-ch/affan-ch/blob/main/bmc-button.png" width="200"/>
+</details>
 
-    
-  <br>
-  <br>
 
-    
-<a href="https://www.patreon.com/join/affan-ch"/>
-<img src="https://github.com/affan-ch/affan-ch/blob/main/patreon-button.png" height="55"/></p>
+
+<details>
+  <summary><h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Money Bag" width="31" height="31" /> Sponsor Me: </h3></summary>
+
+  <p align="left">
+    <br>
+    <a href="https://www.buymeacoffee.com/affanch">
+      <img src="https://github.com/affan-ch/affan-ch/blob/main/bmc-button.png" width="200"/>
+    </a>
+    <br>
+    <br>
+    <a href="https://www.patreon.com/join/affan-ch">
+      <img src="https://github.com/affan-ch/affan-ch/blob/main/patreon-button.png" height="55"/>
+    </a>
+  </p>
+
+</details>
+
 
 ###
