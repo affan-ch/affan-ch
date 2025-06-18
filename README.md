@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Affan Ch.</h1>
-<h3 align="center">A passionate Full-Stack and Desktop developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affan-ch&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" />
@@ -17,11 +17,9 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect with me and explore my projects below!
 
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on [Cyber Vault Desktop](https://github.com/affan-ch/Cyber-Vault-Desktop-Offline)
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on [Nitro Downloader for MacOS](https://github.com/affan-ch/Nitro-Downloader-Mac)
 
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> I’m currently learning **Next.js 14**
-
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> Ask me about **MERN**
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> I’m currently learning **Swift**
 
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me **affan_ali_ch@outlook.com**
@@ -41,7 +39,7 @@
   </a>
 
 
-  <a href="https://instagram.com/ch.affan.ali">
+  <a href="https://instagram.com/affan.com.pk">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   
