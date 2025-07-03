@@ -153,8 +153,8 @@
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=affan-ch&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
- 
+ <!-- <img src="https://streak-stats.demolab.com/?user=affan-ch&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
+ -->
   <img src="https://github-readme-stats-affan.vercel.app/api?username=affan-ch&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=2&icon_color=39D353&border_color=39D353&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="300" width="600" alt="Stats Graph" /> <br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=affan-ch&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_color=39D353&order=3&disable_animations=true" height="180" alt="Languages Graph" /> <br>
@@ -174,10 +174,6 @@
       <img src="https://github.com/affan-ch/affan-ch/blob/main/bmc-button.png" width="200"/>
     </a>
     <br>
-    <br>
-    <a href="https://www.patreon.com/join/affan-ch">
-      <img src="https://github.com/affan-ch/affan-ch/blob/main/patreon-button.png" height="55"/>
-    </a>
   </p>
 
 </details>
